@@ -1,0 +1,1 @@
+These're all not very optimized, and so far i haven't tested them in real hex, only in https://github.com/ChloeTax/HexLua, which i'm adding patterns to as i need to use them in here
